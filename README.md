@@ -12,8 +12,11 @@ This GitHub repository contains the code and documentation for the Object Follow
 - Implementation of an object follower algorithm using a PID controller
 
 ## Demo
-#### Object follower using monocular camera  
-https://youtu.be/gzI_PZzbCxw  
+#### Object follower using monocular camera
+https://www.youtube.com/watch?v=gzI_PZzbCxw  
+[![vid-thumbnail](https://i.ytimg.com/vi/gzI_PZzbCxw/hqdefault.jpg)](https://youtu.be/gzI_PZzbCxw)  
+
+
 https://youtube.com/shorts/SKCsO3qaNMI?feature=share  
 
 #### Distance estimation using monocular camera  
