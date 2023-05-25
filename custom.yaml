@@ -1,0 +1,12 @@
+train: /ds/train/images  # train images (relative to 'path') 128 images
+val: /ds/test/images # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+nc: 4
+names:
+  0: circle
+  1: pentagon
+  2: triangle
+  3: x
+  
