@@ -121,7 +121,7 @@ ros.h
 
 2. Clone the repository:
    ```
-   git clone git@github.com:youssiefanas/monocular_camera_distance_estimation.git
+   git clone git@github.com:youssiefanas/monocualr_camera_distance_estimation_obejct_follower.git
    ```
 
    Copy the "monocular_camera_distance_estimation" folder to your ROS workspace (e.g., catkin_ws).
@@ -130,6 +130,8 @@ ros.h
    ```python
    model = YOLO("/catkin_ws/src/distance_detection/best(1).pt")
    ```
+   path to "/best(1).pt"
+   
 
    Then navigate to your workspace directory and run `catkin_make` in your terminal.
 
