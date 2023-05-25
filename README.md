@@ -158,3 +158,10 @@ ros.h
    ```
    rosrun usb_cam usb_cam_node _pixel_format:=yuyv
    ```
+
+
+## Resources  
+
+- https://github.com/ultralytics/ultralytics
+- https://medium.com/augmented-startups/train-yolov8-on-custom-data-6d28cd348262
+- https://pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
